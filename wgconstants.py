@@ -9,6 +9,3 @@ COL_NUM = 121           # COLUMN NUMBER
 ROW_NUM = 121           # ROW NUMBER
 
 FRAME_NUM = 80
-
-
-
